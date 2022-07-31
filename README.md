@@ -3,11 +3,13 @@
 ![main2](https://user-images.githubusercontent.com/80885540/182041026-f73988c6-823d-4ab0-b0a0-284b4665e24b.PNG)
 
 <br/>
+<br/>
 
 # 📆제작 기간 및 팀원 소개👨‍💻
 2022/07/18 ~ 2022/07/28
 - 이번 프로젝트는 프론트엔드 4명(React), 백엔드 3명(django)이 함께 진행한 프로젝트입니다.
 - 클론코딩 취지에 맞게 최대한 실제 웹사이트의 기능 및 디자인을 똑같이 구현하는 데에 집중하였습니다.
+<br/>
 <br/>
 
 # 💻Frond-end
@@ -19,14 +21,17 @@
 # 💻Back-end
 - [GitHub 바로가기](https://github.com/wecode-bootcamp-korea/35-1st-2sa-living-backend)
 <br/>
+<br/>
 
 # 🎥Youtube 영상 링크
 [영상 바로가기](https://youtu.be/WXSnAXHD1bo)
+<br/>
 <br/>
 
 # 🛠Front-end 기술 스택 및 개발 환경 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 
+<br/>
 <br/>
 
 # ✔🗒️ 페이지 & 기능
