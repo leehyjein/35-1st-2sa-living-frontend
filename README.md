@@ -38,7 +38,7 @@
 
 # ✔🗒️ 페이지 & 기능
 ## 로그인, 회원가입 페이지
-![](https://velog.velcdn.com/images/koooky35_b/post/f44bac40-b91f-4900-86b0-76895b06c724/image.gif)
+(https://velog.velcdn.com/images/koooky35_b/post/f44bac40-b91f-4900-86b0-76895b06c724/image.gif)
 </br>
 ### * 로그인, 회원가입<br/>
 :JWT를 사용하여 로그인과 회원가입을 구현<br/>
@@ -55,3 +55,9 @@
 : 모든 체크박스가 선택될 경우 모두 동의하기 체크박스 선택<br/>
 : 필수 동의 사항에 동의하지 않으면 회원가입  비활성화+alert창 출력<br/>
 
+<br/>
+<br/>
+https://velog.velcdn.com/images/koooky35_b/post/6dd37e7b-2024-4490-8f23-c98a788a9985/image.gif
+### Main-page <br/>
+: 바닐라 스크립트로 슬라이드 기능 구현<br/>
+: 팀원이 개발한 컨포넌트를 사용하여 하단에 상품 출력<br/>
