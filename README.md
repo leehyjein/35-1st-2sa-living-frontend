@@ -58,6 +58,7 @@
 <br/>
 <br/>
 ![](https://velog.velcdn.com/images/koooky35_b/post/6dd37e7b-2024-4490-8f23-c98a788a9985/image.gif)
+
 <br/>
 ### Main-page <br/>
 : 바닐라 스크립트로 슬라이드 기능 구현<br/>
@@ -65,6 +66,7 @@
 <br/>
 <br/>
 ![](https://velog.velcdn.com/images/koooky35_b/post/9b4938fb-34cd-4429-a759-e7ebd1c98465/image.gif)
+
 <br/>
 ## 3. List-page
 ### 하트 기능
